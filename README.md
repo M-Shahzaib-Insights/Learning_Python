@@ -1,6 +1,9 @@
 # Learning_Python
 
-<title>Classwork and Assignments Repository</title>
+<title> 
+    Classwork and Assignments Repository 
+</title>
+
 </head>
 <body>
     <h1>Classwork and Assignments Repository</h1>
